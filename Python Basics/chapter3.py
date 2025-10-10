@@ -73,11 +73,11 @@
 # else:
 #     print('not')
 
-list=["B","C","D","A","A","B","B","A"]
-print(list.count("A"))
-print(list)
-list.sort()
-print(list)
+# list=["B","C","D","A","A","B","B","A"]
+# print(list.count("A"))
+# print(list)
+# list.sort()
+# print(list)
 
 
 
